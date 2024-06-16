@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cola
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cola\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Cola()
+comment2.params=
+comment2.target=boolean\ esVacia()
+comment3.params=dato
+comment3.target=void\ encolar(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ verFrente()
+comment5.params=
+comment5.target=void\ decolar()
+numComments=6

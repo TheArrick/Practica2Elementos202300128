@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\n\ Write\ a\ description\ of\ class\ Tree\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Tree()
+comment2.params=dato
+comment2.target=Tree(java.lang.Object)
+comment3.params=
+comment3.target=boolean\ esVacio()
+comment4.params=ruta\ data
+comment4.target=void\ insertar(EstDataLin.ListaSE,\ java.lang.Object)
+comment5.params=
+comment5.target=void\ mirarArriba()
+comment6.params=
+comment6.target=EstDataLin.ListaSE\ recogerNivel()
+comment7.params=lista\ cola\ espera\ datos\ pos
+comment7.target=void\ recogerNivel(EstDataLin.Lista,\ EstDataLin.Cola,\ EstDataLin.Cola,\ EstDataLin.ListaSE,\ int)
+numComments=8

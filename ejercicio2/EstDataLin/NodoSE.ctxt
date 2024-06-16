@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NodoSE
+comment1.params=dato
+comment1.target=NodoSE(java.lang.Object)
+comment2.params=
+comment2.target=NodoSE\ getSuc()
+comment3.params=
+comment3.target=java.lang.Object\ getDato()
+comment4.params=dato
+comment4.target=void\ setDato(java.lang.Object)
+comment5.params=suc
+comment5.target=void\ setSuc(NodoSE)
+numComments=6
